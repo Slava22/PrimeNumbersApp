@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RandomNumbersApp</string>
+    <string name="enter_an_interval">Enter an interval</string>
+    <string name="start">Start</string>
+    <string name="no_prime_numbers">No prime numbers</string>
+    <string name="threads">Threads</string>
+    <string name="start_in_threads">Start in threads</string>
+</resources>
