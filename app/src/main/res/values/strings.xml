@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">RandomNumbersApp</string>
+    <string name="app_name">PrimeNumbersApp</string>
     <string name="enter_an_interval">Enter an interval</string>
     <string name="start">Start</string>
     <string name="no_prime_numbers">No prime numbers</string>
