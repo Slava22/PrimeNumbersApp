@@ -197,7 +197,6 @@ public class MainActivity extends AppCompatActivity {
             mAdapter.clearNumbers();
             notifyAdapterData();
         }
-        addToHistory(intervalString);
         showProgressBar(false);
     }
 
